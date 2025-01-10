@@ -1,0 +1,30 @@
+{
+  "name": "iksenit",
+  "version": "1.0.0",
+  "description": "iksenit bot for telegram",
+  "main": "google.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "@google-cloud/translate": "^8.5.0",
+    "axios": "^1.7.9",
+    "btch-downloader": "^2.8.3",
+    "cheerio": "^1.0.0",
+    "delay": "^6.0.0",
+    "downloadtiktok": "^3.0.0",
+    "fs-extra": "^11.2.0",
+    "ig-downloader": "^1.1.4",
+    "node-telegram-bot-api": "^0.66.0",
+    "playwright": "^1.49.1",
+    "puppeteer": "^23.11.1",
+    "puppeteer-core": "^23.11.1",
+    "selenium-webdriver": "^4.27.0",
+    "twit": "^2.2.11",
+    "ws": "^8.18.0",
+    "xvdl": "^2.0.0"
+  }
+}
