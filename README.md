@@ -22,8 +22,8 @@ Follow these steps to get the bot up and running:
 ### 2. Clone This Repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/telegram-random-number-bot.git
-cd telegram-random-number-bot
+git clone https://github.com/brktrk/telegram_basic_bot_for_number_generator.git
+cd telegram_basic_bot_for_number_generator
 ```
 
 ### 3. Install Dependencies
